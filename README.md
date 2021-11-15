@@ -1,5 +1,5 @@
 
-## Setup
+# Setup
 We'll use [metapy](https://github.com/meta-toolkit/metapy)---Python bindings for MeTA. , use the following commands to get started. 
 
 **Please note that students have had issues using metapy with specific Python versions in the past (e.g. Python 3.7 on mac). To avoid issues, please use Python 2.7 or 3.5. Your code will be tested using Python 3.5** 
@@ -302,4 +302,4 @@ print(ana.analyze(doc))
 ```
 
 ## Trying it out on your own!
-See Example
+Try it in Example

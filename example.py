@@ -1,4 +1,8 @@
 import metapy
+'''
+You are required to create a function that tokenizes with ICUTokenizer (without the end/start tags, i.e. use the argument "suppress_tags=True"), lowercases, removes words with less than 2 and more than 5 characters, performs stemming and produces trigrams for an input sentence. Once you edit the example.py to fill in the function, you can check whether your submission passed the tests.
+'''
+
 
 def tokens_lowercase(doc):
     #Write a token stream that tokenizes with ICUTokenizer (use the argument "suppress_tags=True"), 

@@ -156,9 +156,3 @@ The output of the significance test will give you a p-value. If the p-value is l
 
 Write the p-value in a file called **significance.txt**. 
 ***Do not include anything else in the file, just this number!***
-
-## Grading
-
-Your grade will be based on:
-- implementing the InL2 parameter correctly -- 0.7 (70) points
-- uploading significance.txt with the p-value. -- 0.3 (30) points

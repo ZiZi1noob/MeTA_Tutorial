@@ -1,6 +1,8 @@
 
 # Setup
 We'll use [metapy](https://github.com/meta-toolkit/metapy)---Python bindings for MeTA. , use the following commands to get started. 
+Read the [C++ Search Tutorial](https://meta-toolkit.org/search-tutorial.html). Read *Initially setting up the config file and Relevance judgements*.
+Read the [python Search Tutorial](https://github.com/meta-toolkit/metapy/blob/master/tutorials/2-search-and-ir-eval.ipynb)
 
 **Please note that students have had issues using metapy with specific Python versions in the past (e.g. Python 3.7 on mac). To avoid issues, please use Python 2.7 or 3.5. Your code will be tested using Python 3.5** 
 
